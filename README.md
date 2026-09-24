@@ -30,7 +30,7 @@ Check [__here__](/DSL.md) for a description of the DSL used by dbdia.
 ## Examples
 
 Check the __examples__ directory in this repository or in the dbdia release archive.
-The examples can be also be tested directly in the Colab notebook. 
+The examples can also be tested directly in the Colab notebook. 
 
 ![Example ER model](/examples/SocialNetwork2_er.svg)
 ![Example Schema](/examples/SocialNetwork2_sch.svg)
@@ -117,7 +117,7 @@ The following should work with recent versions of Ubuntu:
 
 ```
 sudo apt install default-jre
-sudo apt intall graphviz
+sudo apt install graphviz
 ```
 
 ### Install
